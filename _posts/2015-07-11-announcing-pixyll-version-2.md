@@ -10,7 +10,7 @@ In an effort to make Pixyll easier to customize and more aesthetically pleasing,
 
 Pixyll now features:
 
-* Line anchors in code blocks and new syntax highlighting
+* Line $$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$  anchors in code blocks and new syntax highlighting
 * A customizable variables file
 * Modular, and lighter weight CSS
 * No more `max-width` media queries
